@@ -1,4 +1,4 @@
-import GI.func.ROIbased_pattern as ROIbased_pattern
+import GI.funcs.ROIbased_pattern as ROIbased_pattern
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
