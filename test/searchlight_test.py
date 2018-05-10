@@ -1,4 +1,4 @@
-import searchlight
+import GI.searchlight
 import pandas as pd
 import time
 import os

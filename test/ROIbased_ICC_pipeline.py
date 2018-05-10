@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-import ROIbased_ICC
+import GI.func.ROIbased_ICC as ROIbased_ICC
 import matplotlib.pyplot as plt
 
 
